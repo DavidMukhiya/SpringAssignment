@@ -1,4 +1,4 @@
-package org.Genspark;
+package org.genspark;
 
 import static org.junit.Assert.assertTrue;
 

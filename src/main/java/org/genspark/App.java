@@ -1,4 +1,4 @@
-package org.Genspark;
+package org.genspark;
 
 /**
  * Hello world!
