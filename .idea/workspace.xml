@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d875e934-ad11-4c1a-8eda-a9f42f699005" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/genspark/JavaConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/genspark/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/genspark/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/genspark/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/genspark/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/genspark/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/genspark/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/genspark/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/genspark/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="d875e934-ad11-4c1a-8eda-a9f42f699005" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5619a9b93e3c08f78122f5ff2e568bd10de92610" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -79,7 +77,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
