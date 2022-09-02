@@ -24,12 +24,12 @@ public class JavaConfig {
         return new Phone("626 228 2222");
     }
 
-    public Student student(List list){
-        list.add(phone1());
-        list.add(phone2());
-        list.add(phone3());
-        return (Student) list;
-    }
+//    public Student student(List list){
+//        list.add(phone1());
+//        list.add(phone2());
+//        list.add(phone3());
+//        return (Student) list;
+//    }
 }
 
 
