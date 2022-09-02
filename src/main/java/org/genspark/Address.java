@@ -1,20 +1,22 @@
 package org.genspark;
 
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
+
+@Component
 public class Address {
+    @Value("#{new java.lang.String('Kathmandu')}")
     private String city;
+
+    @Value("#{new java.lang.String('CA')}")
     private String state;
+
+    @Value("#{new java.lang.String('US')}")
     private String country;
+
+    @Value("#{new java.lang.String('91775')}")
     private String zipcode;
 
-    public Address() {
-    }
-
-    public Address(String city, String state, String country, String zipcode) {
-        this.city = city;
-        this.state = state;
-        this.country = country;
-        this.zipcode = zipcode;
-    }
 
     @Override
     public String toString() {
